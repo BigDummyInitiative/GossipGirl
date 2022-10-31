@@ -28,7 +28,7 @@ export default function KeywordInput() {
       <div className="flex flex-col items-center justify-center">
         <div>
           <p>
-            What's everyone saying about
+            What&apos;s everyone saying about
             <input
               className="autofocus m-2 rounded-md border-2 border-pink-300 p-2"
               type="text"
