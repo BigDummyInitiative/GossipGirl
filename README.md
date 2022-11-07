@@ -1,6 +1,6 @@
-# TextMeWhen
+# GossipGirl
 
-Scheduled Text Delivery by Opt-In, Custom Opt-In Page for each event pushed by user
+Twitter Web Scraper with Sentiment Analysis
 
 ## Tech Stack
 
@@ -16,9 +16,6 @@ Flask
 s.onalic#9065 - Python Tweet Scraping
 kai_11#4616 - Python Tweet Scraping
 lilintech#1668 - Python Sentiment Analysis 
-Vimal_vatsa#5844 - Connecting Back End to Front End with Flask
-Lane E#5829 - Next.js/React.js Front End Design and Development
-Prath#9580 - Next.js/React.js Front End Design and Development
 emzra#0585 - Project Lead
 
 ## Resources for Team
