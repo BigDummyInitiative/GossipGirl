@@ -13,10 +13,8 @@ Flask
 
 ## Team
 
-s.onalic#9065 - Python Tweet Scraping
-kai_11#4616 - Python Tweet Scraping
 lilintech#1668 - Python Sentiment Analysis 
-emzra#0585 - Project Lead
+emzra#0585 - Fullstack Development and Python Twitter Scraper (using Twitter API)
 
 ## Resources for Team
 
