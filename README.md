@@ -9,7 +9,6 @@ Next.js Framework
 Typescript
 Tailwind CSS
 Python
-Flask
 
 ## Team
 
