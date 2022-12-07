@@ -1,4 +1,4 @@
-# GossipGirl
+# GossipGirl - WIP
 
 Twitter Web Scraper with Sentiment Analysis
 
@@ -8,7 +8,9 @@ React.js, Next.js Framework, Typescript, Tailwind CSS, Python
 
 ## Team
 
-lilintech#1668 - Python Sentiment Analysis, emzra#0585 - Fullstack Development and Python Twitter Scraper (using Twitter API)
+- EmalineG (Fullstack Development and Python Twitter Scraper)
+- Lilintech (Python Sentiment Analysis)
+
 
 ## Resources for Team
 
